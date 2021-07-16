@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2D73486E26A1911800AA9FF5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D73486D26A1911800AA9FF5 /* main.cpp */; };
+		2D73487926A1B97200AA9FF5 /* duotai.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D73487726A1B66400AA9FF5 /* duotai.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2D73486A26A1911800AA9FF5 /* learnCPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = learnCPP; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D73486D26A1911800AA9FF5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2D73487726A1B66400AA9FF5 /* duotai.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = duotai.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2D73486D26A1911800AA9FF5 /* main.cpp */,
+				2D73487726A1B66400AA9FF5 /* duotai.cpp */,
 			);
 			path = learnCPP;
 			sourceTree = "<group>";
@@ -118,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D73486E26A1911800AA9FF5 /* main.cpp in Sources */,
+				2D73487926A1B97200AA9FF5 /* duotai.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
